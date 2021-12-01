@@ -11,4 +11,4 @@ This site is in PHP .
  mysql
  # Framework
  tailwind css
-![localhost_dbms_project_](https://user-images.githubusercontent.com/82139750/144203346-ec7001b7-bac8-498c-b224-f5fe5e56ba8b.png)
+![localhost_dbms_project_](https://user-images.githubusercontent.com/82139750/144203346-ec7001b7-bac8-498c-b224-f5fe5e56ba8b.png | width=100)
